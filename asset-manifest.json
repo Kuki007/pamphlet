@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kuki007/pamphlet/static/css/main.073c9b0a.css",
+    "main.js": "/Kuki007/pamphlet/static/js/main.52e58443.js",
+    "static/js/787.9b37cb5d.chunk.js": "/Kuki007/pamphlet/static/js/787.9b37cb5d.chunk.js",
+    "static/media/logo.svg": "/Kuki007/pamphlet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Kuki007/pamphlet/index.html",
+    "main.073c9b0a.css.map": "/Kuki007/pamphlet/static/css/main.073c9b0a.css.map",
+    "main.52e58443.js.map": "/Kuki007/pamphlet/static/js/main.52e58443.js.map",
+    "787.9b37cb5d.chunk.js.map": "/Kuki007/pamphlet/static/js/787.9b37cb5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.52e58443.js"
+  ]
+}
